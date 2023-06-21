@@ -50,7 +50,7 @@ You can access and download the dataset in `.zip` format from __https://www.kagg
 
 1. Prepare your dataset by organizing it into train, validation, and test directories.
 2. Set the appropriate paths in the code for the train, validation, and test directories.
-3. Install the necessary dependencies (TensorFlow, Keras, scikit-learn) using the requirements.txt file.
+3. Install the necessary dependencies (TensorFlow, Keras, scikit-learn).
 4. Run the code to train the model and evaluate its performance.
 5. Adjust the hyperparameters and model architecture as needed.
 
